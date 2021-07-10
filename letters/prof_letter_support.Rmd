@@ -1,0 +1,35 @@
+---
+author:
+- Prof. Kalu Ojah
+opening: The CLM Faculty Office,
+closing: Sincerely,
+address:
+- CLM Faculty Office
+- University of the Witwatersrand
+- Johannesburg
+header-includes:
+  - \usepackage{titling}
+  - \pretitle{\begin{center}
+    \includegraphics[width=2in,height=2in]{logo.jpg}\LARGE\\}
+  - \posttitle{\end{center}}
+  - \usepackage[utf8]{inputenc}
+  - \usepackage{pdflscape}
+  - \newcommand{\blandscape}{\begin{landscape}}
+  - \newcommand{\elandscape}{\end{landscape}}
+  - \usepackage{amsmath}
+return-address: 
+- Graduate School of Business Administration
+- St David’s Place, Parktown, Johannesburg, 2193
+- PO Box 98, WITS, 2050
+- Telephone +27 11 717 3600, Facsimile + 27 11 643 2336
+- Website   <www.wbs.ac.za> 
+output: linl::linl
+---
+
+Like most of my Full-time PhD students, who though were physically present here in Johannesburg during all of 2020, Mr Wycliffe Oluoch had his work – particularly secondary data collection from WBS computer lab and Wits Libraries – interrupted for over a period of six months due to the Covid-19 pandemic caused national lock-down orders. And this delay is in addition to Mr Olouch’s extensive primary data collection engagement that had taken him to over fifteen African countries prior to the pandemic; so he was already playing catch-up as our previous communication with the Post-Graduate Studies Committee would show.
+
+In my place as his supervisor, who is intimately aware of the significance of this disruption and especially in the midst of the impressive PhD work he is piecing together, I am strongly in support of his request for extension of about a quarter of the year to enable him submit a completed work. It is a high quality work that Wits Business School and the University at large will be proud of.
+
+Thank you in advance for seeing very cogent reasons to grant Mr Oluoch this requested extension.
+
+Sincerely yours,

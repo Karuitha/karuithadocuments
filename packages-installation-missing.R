@@ -1,4 +1,4 @@
-packages <- read.csv("/home/karuitha/Downloads/packages.csv")
+packages <- read.csv("/home/karuitha/projects/karuithadocuments/packages.csv")
 
 #if(!require(packages$Package)){install.packages(packages$Package)}
 

@@ -1,0 +1,36 @@
+---
+author:
+- Bob Wekesa
+opening: Dear Sir/Madam,
+closing: Sincerely,
+address:
+- South Africa High Commision in Kenya,
+- 3rd Floor, Roshanmaer Place 00100, Lenana Road,
+- P O Box 42441,
+- Nairobi, Kenya.
+return-address:
+- Bob Wekesa, PhD,
+- African Center for the Study of the United States,
+- University of the Witwatersrand,
+- 1 Jan Smuts Ave, Braamfontein, 
+- Johannesburg, 2000, South Africa.
+- Email bob.wekesa@wits.ac.za
+- Phone +27 76 345 7839
+output: linl::linl
+---
+
+**RE: INVITATION LETTER FOR MR. JOHN KING'ATHIA KARUITHIA**
+
+I am writing this letter regarding Mr John King’athia Karuithia for visa application purposes. Karuitha plans to visit me in South Africa from May 2021.
+
+I work as the Research, Partnership, and Communications Coordinator, African Centre for the Study of the United States of America at the University of the Witwatersrand, Johannesburg.
+
+My residential address is 303 Princess Place, Parklane, Parktown, Johannesburg, South Africa.
+
+Karuithia is a close friend whom I have worked with on several assignments. Given our acquaintance, Mr Karuitha will reside at my residence for the duration of his stay in South Africa.
+
+Besides, Karuitha has previously lived in South Africa between 2017 and 2020. At no time did he ever overstay his visa. I am confident that he will travel back to Kenya within the timelines stipulated in the visa.
+
+Moreover, Karuitha will abide by the health requirements of the South African government, including taking a COVID-19 test.
+
+I have attached my lease as proof of residence and a copy of my work permit in South Africa. Please contact me in case of additional information and clarification.

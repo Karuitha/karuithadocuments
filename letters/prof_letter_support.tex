@@ -1,0 +1,117 @@
+\documentclass[11pt,]{letter}
+\usepackage{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\usepackage[unicode=true]{hyperref}
+\hypersetup{
+            pdfauthor={Prof.~Kalu Ojah},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+% Make links footnotes instead of hotlinks:
+\renewcommand{\href}[2]{#2\footnote{\url{#1}}}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\signature{Prof.~Kalu Ojah}
+
+
+\usepackage{titling}
+\pretitle{\begin{center} \includegraphics[width=2in,height=2in]{logo.jpg}\LARGE\\}
+\posttitle{\end{center}}
+\usepackage[utf8]{inputenc}
+\usepackage{pdflscape}
+\newcommand{\blandscape}{\begin{landscape}}
+\newcommand{\elandscape}{\end{landscape}}
+\usepackage{amsmath}
+\address{Graduate School of Business Administration\\St David's Place,
+Parktown, Johannesburg, 2193\\PO Box 98, WITS, 2050\\Telephone +27 11
+717 3600, Facsimile + 27 11 643 2336\\Website
+\textless www.wbs.ac.za\textgreater{}}
+
+\usepackage{mdframed} % color is loaded by mdframed
+\definecolor{greyborder}{RGB}{221,221,221}
+\definecolor{greytext}{RGB}{119,119,119}
+\newmdenv[rightline=false,bottomline=false,topline=false,linewidth=3pt,linecolor=greyborder,skipabove=\parskip]{blockquote}
+\renewenvironment{quote}{\begin{blockquote}\list{}{\rightmargin=0em\leftmargin=0em}%
+\item\relax\color{greytext}\ignorespaces}{\unskip\unskip\endlist\end{blockquote}}
+
+
+
+\begin{document}
+
+
+\begin{letter}{CLM Faculty Office\\University of the
+Witwatersrand\\Johannesburg}
+\opening{The CLM Faculty Office,}
+
+Like most of my Full-time PhD students, who though were physically
+present here in Johannesburg during all of 2020, Mr Wycliffe Oluoch had
+his work -- particularly secondary data collection from WBS computer lab
+and Wits Libraries -- interrupted for over a period of six months due to
+the Covid-19 pandemic caused national lock-down orders. And this delay
+is in addition to Mr Olouch's extensive primary data collection
+engagement that had taken him to over fifteen African countries prior to
+the pandemic; so he was already playing catch-up as our previous
+communication with the Post-Graduate Studies Committee would show.
+
+In my place as his supervisor, who is intimately aware of the
+significance of this disruption and especially in the midst of the
+impressive PhD work he is piecing together, I am strongly in support of
+his request for extension of about a quarter of the year to enable him
+submit a completed work. It is a high quality work that Wits Business
+School and the University at large will be proud of.
+
+Thank you in advance for seeing very cogent reasons to grant Mr Oluoch
+this requested extension.
+
+Sincerely yours,
+
+\longindentation=0pt
+\closing{Sincerely,}
+
+\end{letter}
+
+\end{document}

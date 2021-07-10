@@ -1,0 +1,33 @@
+---
+author: John Karuitha
+return-address: 
+  - Wits Business School
+  - diakingathia2005@gmail.com
+  - +27 661 530 596
+address:
+  - The Research Officer.
+  - Faculty of Commerce Law and Management.
+  - University of the Witwatersrand.
+  - Johannesburg, South Africa.
+subject: ""
+opening: Dear Sir/Madam,
+closing: Best regards,
+signature: John Karuitha
+
+output: komaletter::komaletter
+---
+
+**RE: REQUEST FOR EXTENSION OF THESIS SUBMISSION PERIOD**
+
+I am writing to request for an extension of the submission period of my PhD thesis which is due on 31st April 2020. 
+
+My PhD candidature is at the Wits Business School. My student number is **855810**. 
+
+The COVID 19 lockdown made it hard for me to renew my study visa in time. In order not to overstay my visa and break South Africa's immigration law, I returned back to my home country, Kenya. 
+
+After getting to Kenya, the possibility of travelling back to South Africa was curtailed by government of Kenya COVID 19 related lockdown which persists to date in some parts of the country. 
+
+As a result, the communication between my supervisor `Prof. Kalu Ojah` and I was interrupted. Also, I lost some valuable time to analyse my data in the WBS computer labs. However, Given that I have already applied for a visa renewal, I am confident to submit the research within two months. 
+
+I have attached to this letter another support letter from my supervisor highlighting the challenges in meeting the submission deadline. Please get back to me in case of clarification or additional information. 
+
